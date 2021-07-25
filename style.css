@@ -60,6 +60,15 @@
   background: #f4f4f4;
 }
 
+.custom-contact-us-height {
+  height: 80vh;
+}
+
+.custom-w-form {
+  width: 70%;
+  margin-bottom: 20px;
+}
+
 .custom-form-input {
   outline: none;
   border: none;
@@ -71,5 +80,9 @@
   }
   .custom-contact-us-height {
     height: 50vh;
+  }
+  .custom-w-form {
+    width: 25%;
+    margin-bottom: 0px;
   }
 }
