@@ -1,0 +1,75 @@
+.custom-font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+.custom-font-roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.custom-mw-carousel-img {
+  max-width: 400px;
+}
+
+.custom-fw-regular {
+  font-weight: 400;
+}
+.custom-fw-medium {
+  font-weight: 500;
+}
+.custom-fw-semi-bold {
+  font-weight: 600;
+}
+.custom-fw-bold {
+  font-weight: 700;
+}
+
+.custom-bg-pink {
+  background: #feeae9;
+}
+
+.custom-carousel-heading {
+  font-size: 3em;
+  margin-bottom: 30px;
+}
+
+.custom-bg-yellow-gradient {
+  background: linear-gradient(175deg, #ff9c35, #ffd019);
+}
+.custom-bg-pink-gradient {
+  background: linear-gradient(175deg, #ff589b, #ff136f);
+}
+.custom-bg-blue-gradient {
+  background: linear-gradient(175deg, #4289ff, #3f07f8);
+}
+
+.custom-height-categories {
+  height: 120px;
+}
+
+.custom-h-card-img {
+  height: 300px;
+}
+
+.custom-text-warning {
+  color: #ff9d00;
+}
+.custom-text-danger {
+  color: #ff136f;
+}
+
+.custom-container-mid {
+  background: #f4f4f4;
+}
+
+.custom-form-input {
+  outline: none;
+  border: none;
+}
+
+@media (min-width: 992px) {
+  .custom-height-carousel {
+    height: 50vh;
+  }
+  .custom-contact-us-height {
+    height: 50vh;
+  }
+}
